@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![preworkapp](https://github.com/user-attachments/assets/2dd90369-aee8-407e-ac90-5b00b55a5a3e)
+![prework_app](https://github.com/user-attachments/assets/1f497e93-e8b7-401b-8923-d30b2ba90b66)
+
 
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
