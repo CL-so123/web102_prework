@@ -23,6 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+![preworkapp](https://github.com/user-attachments/assets/2dd90369-aee8-407e-ac90-5b00b55a5a3e)
+
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
